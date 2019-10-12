@@ -1,4 +1,4 @@
-# Luis no hace nada
+# Bienvenidos a Fundamentos de Biodiseño
 Este curso introduce al estudiante en el proceso de implementación de proyectos, como al desarrollo de productos y servicios en el campo de la ingeniería biomédica a través del diseño y fabricación de dispositivos que atienden una necesidad médica.
 
 Los alumnos son confrontados a desafíos reales del campo médico en el ámbito nacional o global, presentando una propuesta innovadora trabajada en equipo, la cual diseñarán y presentarán un prototipo funcional de baja resolución.
